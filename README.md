@@ -1,2 +1,7 @@
-# 2021-2_System_Programming
+# 2021-02 System Programming Project
 2021-02_System_Programming Project
+
+### Member
+20175164 조성윤(C)
+201751xx 신재성
+-------------------------------
