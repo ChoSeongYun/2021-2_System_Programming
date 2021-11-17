@@ -1,5 +1,5 @@
 ># 2021-02 System Programming Term Project
-Multi Maze Game
+소켓프로그래밍을 이용한 멀티 미로탈출 게임
 >## Member
 + 빅데이터 전공 20175164 조성윤(C)
 + 컴퓨터공학과 20175140 신재성
