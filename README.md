@@ -9,4 +9,6 @@ Multi Maze Game
 + 소켓프로그래밍을 이용한 멀티플레이 게임으로<br/>최대 2명의 사용자가 한 미로에서 장애물을 헤쳐 나가며 서로 목적지에 도달하는 게임.
 2. How to run?
 3. Diagram
+![다이어그램](https://user-images.githubusercontent.com/83500747/142191055-5f7c0607-1f29-4363-8d54-558e6a6c91b9.PNG)
 >## Screenshot
+
