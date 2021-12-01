@@ -88,7 +88,7 @@ int main(int argc, char * argv[])
 		
 		// inet address
 		clnt_addr.sin_family = AF_INET;
-		clnt_addr.sin_addr.s_addr = htonl(INADDR_ANY);
+		clnt_addr.sin_addr.s_addr = inet_addr(argv[1]);
 		clnt_addr.sin_port = htons(port);
 
 		// inet connect
