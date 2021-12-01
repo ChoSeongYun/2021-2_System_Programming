@@ -27,7 +27,7 @@
 <br/>
 
 **4. Diagram**
-![다이어그램](https://user-images.githubusercontent.com/83500747/142191055-5f7c0607-1f29-4363-8d54-558e6a6c91b9.PNG)
+![최종 다이어그램](https://user-images.githubusercontent.com/83500747/144180959-8d93d7e7-0488-47d0-b2be-53f392170bb0.PNG)
 <br/>
 
 >## Screenshot
