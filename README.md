@@ -72,7 +72,7 @@ $./input <UNIX_SOCK_NAME>
 + 플레이 장면
 ![스크린 샷](https://user-images.githubusercontent.com/83500747/144593331-1adfd082-b3c2-429e-b143-1745b9bbf887.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-lnYSYbuag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/f-lnYSYbuag
 
 >## 개발 결과물의 필요성 및 활용 방안
 + 다른 플레이어와 함께 장애물을 해쳐 나가며 미로를 풀면서 즐거움을 얻을 수 있습니다.
