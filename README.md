@@ -69,17 +69,10 @@ $./input <UNIX_SOCK_NAME>
 <br/>
 
 >## 스크린샷
-+ 플레이 장면1
++ 플레이 장면
+![스크린 샷](https://user-images.githubusercontent.com/83500747/144593331-1adfd082-b3c2-429e-b143-1745b9bbf887.png)
 
-![스크린샷1](https://user-images.githubusercontent.com/83500747/144188214-c4eb19e3-5ded-4044-848f-8147d61363a2.PNG)
-
-+ 플레이 장면2
-
-![스크린샷2](https://user-images.githubusercontent.com/83500747/144188345-c040c142-fd61-43a1-b107-a61d607511a9.PNG)
-
-+ 게임 클리어
-
-![게임클리어](https://user-images.githubusercontent.com/83500747/144188417-5f6cfae1-8d84-4403-a665-76cc3860991b.PNG)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-lnYSYbuag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >## 개발 결과물의 필요성 및 활용 방안
 + 다른 플레이어와 함께 장애물을 해쳐 나가며 미로를 풀면서 즐거움을 얻을 수 있습니다.
