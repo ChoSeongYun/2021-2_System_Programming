@@ -21,6 +21,17 @@
 + Linux 환경에서 사용 가능하다.
 + 방향키(W,A,S,D)를 이용해 조작하며 특정 목적지(도착지)에 도달할 경우 클리어 된다.
 + 프로그램 실행 순서 **(UNIX_SOCK_NAME은 user1 또는 user2로 고정)**
+0. compile
+```
+$make
+```
+ 또는 아래의 명령어를 입력한다.
+```
+$gcc -o server final_server.c
+$gcc -o client final_client.c -lncurses
+$gcc -o input final_input.c
+```
+
 1. server
 ```
 $./server <PORT>
