@@ -58,7 +58,9 @@ $./input <UNIX_SOCK_NAME>
 + /src
   + final_server.c, final_client.c, final_input.c (21/12/01) **-- 프로젝트 최종 결과물**
     + final_server.c : 클라이언트로 부터 받은 입력을 처리하고 클라이언트에게 데이터를 전송해주는 서버 소스코드(INET 통신 사용)
+    
     + final_client.c : 서버와 통신하면서 서버에서 받은 데이터를 시각화하여 사용자에게 보여주는 클라이언트 소스코드(INET & UNIX 통신 사용)
+    
     + final_input.c : 사용자의 입력을 NON_BLOCKING으로 받기 위한 입력 소스코드(UNIX 통신 사용)
 <br/>
 
